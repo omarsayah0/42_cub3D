@@ -123,6 +123,24 @@ C 225,0,150                # Ceiling color (R,G,B)
 
 ---
 
+### How to Win
+
+To complete the level, the player must collect all collectibles (`C`) scattered across the map.  
+Once all collectibles are gathered, the game is won.
+
+---
+
+### Output
+
+<img width="1277" height="706" alt="image" src="https://github.com/user-attachments/assets/7a7db201-5224-46e5-882c-50885c7aef06" />
+
+<img width="1269" height="695" alt="image" src="https://github.com/user-attachments/assets/e0210f1a-0cab-44b6-b0bc-32bafaeefe94" />
+
+<img width="1264" height="694" alt="image" src="https://github.com/user-attachments/assets/c1a916da-5283-4025-afb1-a912b4dd676b" />
+
+---
+
+
 ## Resources
 
 ### Raycasting & 3D Graphics
