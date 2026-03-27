@@ -65,6 +65,9 @@ make re
 ```bash
 ./cub3D <path_to_map.cub>
 ```
+The `maps/` directory is organized into `valid/` and `invalid/` folders.  
+Inside `valid/`, there are two subfolders: `mand/` for mandatory maps and `bonus/` for bonus maps.  
+The `bonus/` folder contains maps designed for the bonus part, including additional elements such as doors and collectibles. :contentReference[oaicite:0]{index=0}
 
 **Examples:**
 ```bash
