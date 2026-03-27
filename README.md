@@ -39,8 +39,8 @@ The goal of this project is to gain practical understanding of how early 3D game
 Clone the repository and build using `make`:
 
 ```bash
-git clone <repository-url>
-cd cup3d_mand_bonus
+git clone <git@github.com:omarsayah0/42_cub3D.git>
+cd cup3d
 
 # Build the mandatory version
 make
