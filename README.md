@@ -70,10 +70,10 @@ make re
 
 The `maps/` directory is organized into two main categories:
 
-- `valid/` — contains correctly formatted maps  
-- `invalid/` — contains maps with intentional errors for testing
+- `valid_maps/` — contains correctly formatted maps  
+- `invalid_maps/` — contains maps with intentional errors for testing
 
-Inside `valid/`, maps are further divided into:
+Inside `valid_maps/`, maps are further divided into:
 
 - `mand/` — maps designed for the mandatory part  
 - `bonus/` — maps designed for the bonus features  
@@ -82,8 +82,8 @@ The `bonus/` maps include additional elements such as doors (`D`) and collectibl
 
 **Examples:**
 ```bash
-./cub3D maps/42.cub
-./cub3D maps/omar.cub
+./cub3D maps/valid_maps/mand/mand_level1.cub
+./cub3D maps/valid_maps/bonus/bonus_level1.cub
 ```
 
 ### Map File Format (`.cub`)
