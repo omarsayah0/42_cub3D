@@ -136,6 +136,8 @@ Once all collectibles are gathered, the game is won.
 
 <img width="1269" height="695" alt="image" src="https://github.com/user-attachments/assets/e0210f1a-0cab-44b6-b0bc-32bafaeefe94" />
 
+<img width="1261" height="701" alt="Capture_2026_03_28_02_42_55_454" src="https://github.com/user-attachments/assets/4ca868b9-3670-4dbd-ba8b-701fa6f0b782" />
+
 <img width="1264" height="694" alt="image" src="https://github.com/user-attachments/assets/c1a916da-5283-4025-afb1-a912b4dd676b" />
 
 ---
